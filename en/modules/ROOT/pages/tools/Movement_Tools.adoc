@@ -5,10 +5,10 @@ ifdef::env-github[:imagesdir: /en/modules/ROOT/assets/images]
 Movement xref:/Tools.adoc[tools] are grouped by default under image:22px-Mode_move.svg.png[Mode
 move.svg,width=22,height=22]icon (the first from left) in the toolbar of GeoGebra Classic, while in the apps they are grouped under the _Basic Tools_ and _Others_ categories. 
 
-Four movement tools are currently available:
+Four movement tools are currently available:目前有四种移动工具可用：
 
-* xref:/tools/Move.adoc[Move]
-* xref:/tools/Move_around_Point.adoc[Move around Point]
-* xref:/tools/Freehand_Shape.adoc[Freehand Shape]
-* xref:/tools/Pen.adoc[Pen]
+* xref:/tools/Move.adoc[Move][移动]
+* xref:/tools/Move_around_Point.adoc[Move around Point][围绕点移动]
+* xref:/tools/Freehand_Shape.adoc[Freehand Shape][手绘形状]
+* xref:/tools/Pen.adoc[Pen][笔]
 
