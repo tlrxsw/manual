@@ -1,9 +1,9 @@
-= GeoGebra Manual
-:description: Explore the GeoGebra Online Manual and Reference Guide. Easily navigate to detailed help pages for every GeoGebra command and tool, providing step-by-step instructions and examples for enhancing your math learning and teaching experience
-:page-en: index
+= GeoGebra 手册
 
-Welcome to the GeoGebra User Manual.
+欢迎使用 GeoGebra 用户手册。
 
-This manual provides a comprehensive guide to the tools and commands available in the software. Inside, you will find detailed explanations of all the key features, including examples on how to use the tools and commands efficiently. 
+本手册提供了软件中可用工具和命令的全面指南。在里面，您将找到所有关键功能的详细说明，
+包括有关如何有效使用工具和命令的示例。
 
-Whether you're a beginner or an advanced user, this manual will help you maximize the potential of GeoGebra by offering clear guidance on navigating its functionalities and optimizing your workflows.
+无论您是初学者还是高级用户，本手册都将通过提供有关导航其功能和优化工作流程的明确指导，
+帮助您最大限度地发挥 GeoGebra 的潜力。
